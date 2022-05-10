@@ -23,4 +23,4 @@ def password_checker(password):
             print("The password is strong!")
             break
 
-password_checker("AZAMER1@LLLL")
+password_checker()
