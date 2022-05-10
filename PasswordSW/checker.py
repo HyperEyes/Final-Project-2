@@ -1,3 +1,4 @@
+# The job of this program is to check the strength of your password, to use it type your password in line 27.
 import re
 def password_checker(password):
     while True:
